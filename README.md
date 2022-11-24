@@ -10,6 +10,8 @@ Labb 1
 This is the **first line**.   
 And this is the *second line*.
 
-
+> Niki Sjölund är uppväxt i södra Lappland med naturen som lekplats. 
+>
+>Som kokck har han arbetat med vilda växter på restauranger som Ekstedt och Gro i Stockholm.
 
 
