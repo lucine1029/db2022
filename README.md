@@ -18,6 +18,6 @@ Flora för vildplockare
 1. Vår
 2. Sommar
 3. Höst
-  1. Blek taggsvamp
-  2.Blodriska
+	1. Blek taggsvamp
+	2. :Blodriska
 4. Hela året
