@@ -24,4 +24,6 @@ Flora för vildplockare
 
 My favorite website is [Matsvampar](http://svampguiden.com/).
 
+![IMG](https://avatars.githubusercontent.com/u/103268927?v=4)
+
 
